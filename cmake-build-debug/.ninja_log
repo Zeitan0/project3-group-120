@@ -1,0 +1,7 @@
+# ninja log v5
+10	1968	7550485528696957	CMakeFiles/project_3.dir/pugixml-master/src/pugixml.cpp.obj	2eaefaff10b411de
+1969	2429	7550485533036016	project_3.exe	360076b9d72a2a11
+21	976	7550485518791719	CMakeFiles/project_3.dir/main.cpp.obj	aa48a170d33c4f6d
+4	292	7550486731597202	build.ninja	ba704b41e13405d9
+16	1248	7550485521495760	CMakeFiles/project_3.dir/Trie.cpp.obj	cfef3378c88afcf6
+5	989	7550485518922766	CMakeFiles/project_3.dir/hashTable.cpp.obj	5dd56d808a4f369f
